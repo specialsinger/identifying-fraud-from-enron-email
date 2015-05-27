@@ -1,0 +1,33 @@
+Naive Bayes
+http://scikit-learn.org/stable/modules/naive_bayes.html
+
+Decision Tress
+http://scikit-learn.org/stable/modules/tree.html
+
+SVM
+http://scikit-learn.org/stable/modules/svm.html
+
+
+matplotlib
+http://matplotlib.org/api/pyplot_api.html
+
+sklearn feature selection
+http://scikit-learn.org/stable/modules/feature_selection.html
+
+cross-validation
+http://scikit-learn.org/stable/modules/cross_validation.html
+
+SelectPercentile
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html
+
+Preprocessing
+http://scikit-learn.org/stable/modules/preprocessing.html
+
+MinMax Scaler
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler
+
+GridSearchCV
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+
+Stratified ShuffleSplit
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
